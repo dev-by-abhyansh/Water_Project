@@ -59,3 +59,7 @@ npm run dev
 
 10.Install openpyxl
     pip install openpyxl
+    <br>
+11. Open the backend folder and run this command 
+<br>
+uvicorn main:app --reload
